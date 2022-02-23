@@ -1,0 +1,4 @@
+Dockerfile
+.git
+node_module
+.cache
